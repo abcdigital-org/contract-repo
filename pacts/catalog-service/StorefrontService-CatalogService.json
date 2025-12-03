@@ -14,7 +14,7 @@
         "headers": {
           "Accept": "application/json"
         },
-      "method": "GET",
+        "method": "GET",
         "path": "/products/2"
       },
       "response": {
